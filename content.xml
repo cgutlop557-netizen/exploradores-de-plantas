@@ -1,0 +1,1171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260514000310IWRJV8</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260514000310B7SA2E</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Exploradores de plantas</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Situación de Aprendizaje – 1º de Primaria</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Cristina Gutiérrez López</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de Aprendizaje dirigida a 1º de Educación Primaria para trabajar las partes de las plantas, sus cuidados y el uso responsable de herramientas digitales mediante metodologías activas y actividades cooperativas.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778704806763</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp4ix0lm-2851mgcjz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp4ix0lm-2851mgcjz</odePageId>
+      <odeBlockId>block-1778663093604-fwaicobf2</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4ix0lm-2851mgcjz</odePageId>
+          <odeBlockId>block-1778663093604-fwaicobf2</odeBlockId>
+          <odeIdeviceId>idevice-1778663093602-m8usxny5f</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>🌿 EXPLORADORES DE PLANTAS</strong></p>
+<p style="text-align: justify;"><strong>Bienvenidos/as a nuestra aventura en el mundo de las plantas.</strong><br />En esta Situación de Aprendizaje descubriremos las partes de las plantas, sus cuidados y la importancia de la naturaleza mediante actividades cooperativas y herramientas digitales adaptadas a nuestro nivel.</p>
+<p style="text-align: center;">¡Preparados para convertirnos en auténticos exploradores de plantas!</p>
+<p style="text-align: center;"></p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/kids-exploring-together-nature.jpg" width="680" height="453" alt="Imagen de Freepik" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778663093602-m8usxny5f","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>🌿 EXPLORADORES DE PLANTAS</strong></p>\n<p style=\"text-align: justify;\"><strong>Bienvenidos/as a nuestra aventura en el mundo de las plantas.</strong><br />En esta Situación de Aprendizaje descubriremos las partes de las plantas, sus cuidados y la importancia de la naturaleza mediante actividades cooperativas y herramientas digitales adaptadas a nuestro nivel.</p>\n<p style=\"text-align: center;\">¡Preparados para convertirnos en auténticos exploradores de plantas!</p>\n<p style=\"text-align: center;\"></p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/kids-exploring-together-nature.jpg\" width=\"680\" height=\"453\" alt=\"Imagen de Freepik\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp4ix0lp-gneftwh6t</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp4ix0lp-gneftwh6t</odePageId>
+      <odeBlockId>block-1778705095043-mu7hjlyxm</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4ix0lp-gneftwh6t</odePageId>
+          <odeBlockId>block-1778705095043-mu7hjlyxm</odeBlockId>
+          <odeIdeviceId>idevice-1778705095039-m00mz2ywm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 style="text-align: center;"><strong>Presentación del proyecto</strong></h1>
+<p style="text-align: justify;"><br />La Situación de Aprendizaje “Exploradores de plantas” está dirigida al alumnado de 1º de Educación Primaria y tiene como finalidad acercar al alumnado al conocimiento de las plantas, sus partes, cuidados y la importancia de la naturaleza mediante actividades manipulativas, cooperativas y digitales.</p>
+<p style="text-align: justify;">A lo largo de esta propuesta el alumnado desarrollará actividades de observación, investigación y creación de contenidos digitales adaptados a su nivel, favoreciendo la participación activa y el aprendizaje significativo.</p>
+<p style="text-align: justify;">La SdA tendrá una duración aproximada de 6 sesiones y combinará trabajo individual, cooperativo y actividades en gran grupo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778705095039-m00mz2ywm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: center;\"><strong>Presentación del proyecto</strong></h1>\n<p style=\"text-align: justify;\"><br />La Situación de Aprendizaje “Exploradores de plantas” está dirigida al alumnado de 1º de Educación Primaria y tiene como finalidad acercar al alumnado al conocimiento de las plantas, sus partes, cuidados y la importancia de la naturaleza mediante actividades manipulativas, cooperativas y digitales.</p>\n<p style=\"text-align: justify;\">A lo largo de esta propuesta el alumnado desarrollará actividades de observación, investigación y creación de contenidos digitales adaptados a su nivel, favoreciendo la participación activa y el aprendizaje significativo.</p>\n<p style=\"text-align: justify;\">La SdA tendrá una duración aproximada de 6 sesiones y combinará trabajo individual, cooperativo y actividades en gran grupo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp4ix0lq-l8r500eni</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Qué vamos a aprender?</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué vamos a aprender?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp4ix0lq-l8r500eni</odePageId>
+      <odeBlockId>block-1778705277633-e50kmbnmx</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4ix0lq-l8r500eni</odePageId>
+          <odeBlockId>block-1778705277633-e50kmbnmx</odeBlockId>
+          <odeIdeviceId>idevice-1778705277629-1kv3ky399</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3 style="text-align: center;">🌱 ¿Qué vamos a aprender?</h3>
+<ul>
+<li>Las partes principales de una planta.</li>
+<li>Qué necesitan las plantas para vivir.</li>
+<li>Cómo cuidar una planta correctamente.</li>
+<li>La importancia de la naturaleza en nuestro entorno.</li>
+<li>Cómo utilizar herramientas digitales sencillas de forma responsable.</li>
+</ul>
+<p><br /><em>Aprenderemos investigando, observando y trabajando en equipo.</em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778705277629-1kv3ky399","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3 style=\"text-align: center;\">🌱 ¿Qué vamos a aprender?</h3>\n<ul>\n<li>Las partes principales de una planta.</li>\n<li>Qué necesitan las plantas para vivir.</li>\n<li>Cómo cuidar una planta correctamente.</li>\n<li>La importancia de la naturaleza en nuestro entorno.</li>\n<li>Cómo utilizar herramientas digitales sencillas de forma responsable.</li>\n</ul>\n<p><br /><em>Aprenderemos investigando, observando y trabajando en equipo.</em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp4ix0lq-2yv1zlkvi</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Uso responsable de la tecnología</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Uso responsable de la tecnología</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Uso responsable de la tecnología</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp4ix0lq-2yv1zlkvi</odePageId>
+      <odeBlockId>block-1778705475543-agjbf7pvf</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4ix0lq-2yv1zlkvi</odePageId>
+          <odeBlockId>block-1778705475543-agjbf7pvf</odeBlockId>
+          <odeIdeviceId>idevice-1778705475540-o47pf9pne</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3 style="text-align: center;">🔒 Uso responsable de la tecnología</h3>
+<p><br />Durante esta Situación de Aprendizaje utilizaremos herramientas digitales adaptadas a nuestro nivel para aprender de manera segura y responsable.</p>
+<p>Aprenderemos:</p>
+<p>- a cuidar los dispositivos,<br />- a respetar las normas de uso,<br />- a utilizar imágenes y recursos adecuados,<br />- a trabajar de forma responsable en entornos digitales.<br /> <br /><a href="https://canva.link/jafpwngss26lqc8" target="_blank" title="" rel="noopener"></a></p>
+<p><img src="{{context_path}}/content/resources/seguridad digital.png" width="1536" height="857" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778705475540-o47pf9pne","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3 style=\"text-align: center;\">🔒 Uso responsable de la tecnología</h3>\n<p><br />Durante esta Situación de Aprendizaje utilizaremos herramientas digitales adaptadas a nuestro nivel para aprender de manera segura y responsable.</p>\n<p>Aprenderemos:</p>\n<p>- a cuidar los dispositivos,<br />- a respetar las normas de uso,<br />- a utilizar imágenes y recursos adecuados,<br />- a trabajar de forma responsable en entornos digitales.<br /> <br /><a href=\"https://canva.link/jafpwngss26lqc8\" target=\"_blank\" title=\"\" rel=\"noopener\"></a></p>\n<p><img src=\"{{context_path}}/content/resources/seguridad digital.png\" width=\"1536\" height=\"857\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp4ix0lr-mpaihakck</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp4ix0lr-mpaihakck</odePageId>
+      <odeBlockId>block-1778706338438-bfqudi4ic</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4ix0lr-mpaihakck</odePageId>
+          <odeBlockId>block-1778706338438-bfqudi4ic</odeBlockId>
+          <odeIdeviceId>idevice-1778706338435-hdg278hsi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A lo largo de esta Situación de Aprendizaje realizaremos diferentes actividades individuales y cooperativas para conocer las plantas y sus cuidados mediante recursos manipulativos y digitales.</p>
+<p><strong>🌱 Sesión 1</strong><br />¿Qué sabemos de las plantas? Conversación inicial y lluvia de ideas.</p>
+<p><strong>🌱 Sesión 2</strong><br />Descubrimos las partes de la planta mediante vídeos e imágenes digitales.</p>
+<p><strong>🌱 Sesión 3</strong><br />Actividad manipulativa para construir una planta identificando sus partes.</p>
+<p><strong>🌱 Sesión 4</strong><br />Observación y cuidados básicos de una planta del aula.</p>
+<p><strong>🌱 Sesión 5</strong><br />Creación de un mural digital colaborativo en Canva.</p>
+<p><strong>🌱 Sesión 6</strong><br />Exposición oral del mural digital y reflexión final.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778706338435-hdg278hsi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A lo largo de esta Situación de Aprendizaje realizaremos diferentes actividades individuales y cooperativas para conocer las plantas y sus cuidados mediante recursos manipulativos y digitales.</p>\n<p><strong>🌱 Sesión 1</strong><br />¿Qué sabemos de las plantas? Conversación inicial y lluvia de ideas.</p>\n<p><strong>🌱 Sesión 2</strong><br />Descubrimos las partes de la planta mediante vídeos e imágenes digitales.</p>\n<p><strong>🌱 Sesión 3</strong><br />Actividad manipulativa para construir una planta identificando sus partes.</p>\n<p><strong>🌱 Sesión 4</strong><br />Observación y cuidados básicos de una planta del aula.</p>\n<p><strong>🌱 Sesión 5</strong><br />Creación de un mural digital colaborativo en Canva.</p>\n<p><strong>🌱 Sesión 6</strong><br />Exposición oral del mural digital y reflexión final.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp4ix0lr-woyprvs4j</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp4ix0lr-woyprvs4j</odePageId>
+      <odeBlockId>block-1778706443409-sdka6ma9d</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4ix0lr-woyprvs4j</odePageId>
+          <odeBlockId>block-1778706443409-sdka6ma9d</odeBlockId>
+          <odeIdeviceId>idevice-1778706443407-pgv86v6nl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h4><strong>Organización temporal</strong></h4>
+<p><br />Esta línea temporal recoge las diferentes sesiones, agrupamientos, herramientas digitales y recursos utilizados durante el desarrollo de la Situación de Aprendizaje.</p>
+<p><img src="{{context_path}}/content/resources/infografía.png" width="249" height="601" alt="" /></p>
+<p></p>
+<p><a href="https://canva.link/jafpwngss26lqc8" target="_blank" title="" rel="noopener">🔗 Ver línea temporal completa</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778706443407-pgv86v6nl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h4><strong>Organización temporal</strong></h4>\n<p><br />Esta línea temporal recoge las diferentes sesiones, agrupamientos, herramientas digitales y recursos utilizados durante el desarrollo de la Situación de Aprendizaje.</p>\n<p><img src=\"{{context_path}}/content/resources/infografía.png\" width=\"249\" height=\"601\" alt=\"\" /></p>\n<p></p>\n<p><a href=\"https://canva.link/jafpwngss26lqc8\" target=\"_blank\" title=\"\" rel=\"noopener\">🔗 Ver línea temporal completa</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp4ix0lr-zc4wupemv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos para el alumnado</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp4ix0lr-zc4wupemv</odePageId>
+      <odeBlockId>block-1778707241694-a807igohb</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4ix0lr-zc4wupemv</odePageId>
+          <odeBlockId>block-1778707241694-a807igohb</odeBlockId>
+          <odeIdeviceId>idevice-1778707241682-eh94l60up</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3 style="text-align: center;"><strong>Recursos para el alumnado</strong></h3>
+<p><br />En este apartado el alumnado podrá acceder a vídeos, juegos y actividades interactivas para reforzar el aprendizaje sobre las plantas.</p>
+<p>Encontraremos recursos digitales sencillos y adaptados a nuestro nivel para aprender jugando e investigando.</p>
+<p><img src="{{context_path}}/content/resources/recursos.png" width="552" height="311" alt="recursos" /></p>
+<p><a href="https://padlet.com/cristina_gl_2607/aprendemos-sobre-las-plantas-3rgmtxmn7mdh07lf" target="_blank" title="" rel="noopener">🔗 Acceder al Padlet de recursos</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778707241682-eh94l60up","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3 style=\"text-align: center;\"><strong>Recursos para el alumnado</strong></h3>\n<p><br />En este apartado el alumnado podrá acceder a vídeos, juegos y actividades interactivas para reforzar el aprendizaje sobre las plantas.</p>\n<p>Encontraremos recursos digitales sencillos y adaptados a nuestro nivel para aprender jugando e investigando.</p>\n<p><img src=\"{{context_path}}/content/resources/recursos.png\" width=\"552\" height=\"311\" alt=\"recursos\" /></p>\n<p><a href=\"https://padlet.com/cristina_gl_2607/aprendemos-sobre-las-plantas-3rgmtxmn7mdh07lf\" target=\"_blank\" title=\"\" rel=\"noopener\">🔗 Acceder al Padlet de recursos</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp4ix0lr-tsm5beake</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos docentes</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos docentes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos docentes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp4ix0lr-tsm5beake</odePageId>
+      <odeBlockId>block-1778707545743-2ny896d5n</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4ix0lr-tsm5beake</odePageId>
+          <odeBlockId>block-1778707545743-2ny896d5n</odeBlockId>
+          <odeIdeviceId>idevice-1778707545740-z76m65pkh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3 style="text-align: center;"><strong>Recursos docentes</strong></h3>
+<p style="text-align: justify;"><br />En este apartado se recopilan herramientas y recursos digitales útiles para la planificación y desarrollo de la Situación de Aprendizaje.</p>
+<p style="text-align: justify;">Estos recursos permiten organizar materiales, crear actividades digitales y facilitar la atención a la diversidad mediante metodologías activas y herramientas colaborativas.</p>
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/symbaloo.png" width="571" height="348" alt="symbaloo" /></p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"><a href="https://www.symbaloo.com/shared/AAAAAfKhz6cAA41-5EWWFw==" target="_blank" title="" rel="noopener">🔗 Acceder al Symbaloo docente</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778707545740-z76m65pkh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3 style=\"text-align: center;\"><strong>Recursos docentes</strong></h3>\n<p style=\"text-align: justify;\"><br />En este apartado se recopilan herramientas y recursos digitales útiles para la planificación y desarrollo de la Situación de Aprendizaje.</p>\n<p style=\"text-align: justify;\">Estos recursos permiten organizar materiales, crear actividades digitales y facilitar la atención a la diversidad mediante metodologías activas y herramientas colaborativas.</p>\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/symbaloo.png\" width=\"571\" height=\"348\" alt=\"symbaloo\" /></p>\n<p style=\"text-align: justify;\"></p>\n<p style=\"text-align: justify;\"><a href=\"https://www.symbaloo.com/shared/AAAAAfKhz6cAA41-5EWWFw==\" target=\"_blank\" title=\"\" rel=\"noopener\">🔗 Acceder al Symbaloo docente</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp4ix0lr-fxaoxncht</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp4ix0lr-fxaoxncht</odePageId>
+      <odeBlockId>block-1778707975402-ut98tojs5</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4ix0lr-fxaoxncht</odePageId>
+          <odeBlockId>block-1778707975402-ut98tojs5</odeBlockId>
+          <odeIdeviceId>idevice-1778707975400-owh1cw41a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3 style="text-align: center;"><strong>Evaluación</strong></h3>
+<p><br />La evaluación de esta Situación de Aprendizaje será continua, formativa y adaptada al nivel del alumnado.</p>
+<p>Para valorar el proceso de aprendizaje se utilizarán diferentes instrumentos de evaluación que permitirán recoger información sobre la participación, la comprensión de contenidos y el uso responsable de las herramientas digitales.</p>
+<p><em>📝 Instrumentos de evaluación utilizados:</em><br />- Lista de cotejo<br />- Rúbrica sencilla<br />- Observación directa<br />- Autoevaluación del alumnado</p>
+<p><br />Estos instrumentos permitirán adaptar la enseñanza a las necesidades del alumnado y ofrecer una retroalimentación adecuada durante todo el proceso de aprendizaje.</p>
+<p><a href="https://docs.google.com/document/d/1BzgqAQQnEZ6aHK0XIcLYWC7FccH7lR4McDwpah8LUHc/edit?usp=sharing" target="_blank" title="" rel="noopener">🔗 Ver instrumentos de evaluación</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778707975400-owh1cw41a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3 style=\"text-align: center;\"><strong>Evaluación</strong></h3>\n<p><br />La evaluación de esta Situación de Aprendizaje será continua, formativa y adaptada al nivel del alumnado.</p>\n<p>Para valorar el proceso de aprendizaje se utilizarán diferentes instrumentos de evaluación que permitirán recoger información sobre la participación, la comprensión de contenidos y el uso responsable de las herramientas digitales.</p>\n<p><em>📝 Instrumentos de evaluación utilizados:</em><br />- Lista de cotejo<br />- Rúbrica sencilla<br />- Observación directa<br />- Autoevaluación del alumnado</p>\n<p><br />Estos instrumentos permitirán adaptar la enseñanza a las necesidades del alumnado y ofrecer una retroalimentación adecuada durante todo el proceso de aprendizaje.</p>\n<p><a href=\"https://docs.google.com/document/d/1BzgqAQQnEZ6aHK0XIcLYWC7FccH7lR4McDwpah8LUHc/edit?usp=sharing\" target=\"_blank\" title=\"\" rel=\"noopener\">🔗 Ver instrumentos de evaluación</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp4ix0ls-7mexllsel</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp4ix0ls-7mexllsel</odePageId>
+      <odeBlockId>block-1778708246149-2o742bmf6</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4ix0ls-7mexllsel</odePageId>
+          <odeBlockId>block-1778708246149-2o742bmf6</odeBlockId>
+          <odeIdeviceId>idevice-1778708246146-9mxypr8l0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3 style="text-align: center;"><strong>Guía didáctica</strong></h3>
+<p><br /><strong>Curso y área</strong><br />1º de Educación Primaria – Conocimiento del Medio Natural, Social y Cultural.</p>
+<p><strong>Temporalización</strong><br />6 sesiones.</p>
+<p><strong>Metodología</strong><br />La propuesta se basa en metodologías activas, aprendizaje cooperativo y actividades manipulativas combinadas con herramientas digitales adaptadas al nivel del alumnado.</p>
+<p><strong>Agrupamientos</strong><br />- Gran grupo<br />- Pequeño grupo<br />- Trabajo individual</p>
+<p><strong>Herramientas digitales utilizadas</strong><br />- Canva<br />- Padlet<br />- Symbaloo<br />- Pizarra digital<br />- Recursos audiovisuales</p>
+<p><strong>Competencias específicas</strong><br />CE1. Observar y explorar el entorno natural mostrando curiosidad.<br />CE2. Buscar y utilizar información sencilla del entorno.<br />CE3. Participar en actividades prácticas relacionadas con las plantas y sus cuidados.<br />CE4. Utilizar herramientas digitales de forma guiada y responsable.</p>
+<p><strong>Criterios de evaluación</strong><br />CMN.1.1. Mostrar curiosidad por el entorno natural formulando preguntas sencillas.<br />CMN.1.2. Buscar y utilizar información sencilla procedente de diferentes fuentes.<br />CMN.1.3. Participar en actividades prácticas relacionadas con el entorno natural.<br />CMN.1.4. Observar e identificar cambios sencillos en el entorno natural.<br />CMN.1.5. Utilizar herramientas digitales de forma guiada, segura y responsable.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778708246146-9mxypr8l0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3 style=\"text-align: center;\"><strong>Guía didáctica</strong></h3>\n<p><br /><strong>Curso y área</strong><br />1º de Educación Primaria – Conocimiento del Medio Natural, Social y Cultural.</p>\n<p><strong>Temporalización</strong><br />6 sesiones.</p>\n<p><strong>Metodología</strong><br />La propuesta se basa en metodologías activas, aprendizaje cooperativo y actividades manipulativas combinadas con herramientas digitales adaptadas al nivel del alumnado.</p>\n<p><strong>Agrupamientos</strong><br />- Gran grupo<br />- Pequeño grupo<br />- Trabajo individual</p>\n<p><strong>Herramientas digitales utilizadas</strong><br />- Canva<br />- Padlet<br />- Symbaloo<br />- Pizarra digital<br />- Recursos audiovisuales</p>\n<p><strong>Competencias específicas</strong><br />CE1. Observar y explorar el entorno natural mostrando curiosidad.<br />CE2. Buscar y utilizar información sencilla del entorno.<br />CE3. Participar en actividades prácticas relacionadas con las plantas y sus cuidados.<br />CE4. Utilizar herramientas digitales de forma guiada y responsable.</p>\n<p><strong>Criterios de evaluación</strong><br />CMN.1.1. Mostrar curiosidad por el entorno natural formulando preguntas sencillas.<br />CMN.1.2. Buscar y utilizar información sencilla procedente de diferentes fuentes.<br />CMN.1.3. Participar en actividades prácticas relacionadas con el entorno natural.<br />CMN.1.4. Observar e identificar cambios sencillos en el entorno natural.<br />CMN.1.5. Utilizar herramientas digitales de forma guiada, segura y responsable.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp4ix0ls-9pvyc9ehy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp4ix0ls-9pvyc9ehy</odePageId>
+      <odeBlockId>block-1778708491483-m3e75kmst</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4ix0ls-9pvyc9ehy</odePageId>
+          <odeBlockId>block-1778708491483-m3e75kmst</odeBlockId>
+          <odeIdeviceId>idevice-1778708491480-2cd0ncd24</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h4 style="text-align: center;"><strong>Producto final del alumnado</strong></h4>
+<p><br />Como producto final de esta Situación de Aprendizaje, el alumnado elaborará un mural digital colaborativo sobre las plantas utilizando herramientas digitales adaptadas a su nivel.</p>
+<p>En este mural incluirán:</p>
+<p>- Partes de las plantas<br />- Cuidados básicos<br />- Imágenes y dibujos<br />- Información sencilla aprendida durante las sesiones</p>
+<p><br />El trabajo se realizará en pequeño grupo favoreciendo la participación activa, la creatividad y el aprendizaje cooperativo.</p>
+<p><img src="{{context_path}}/content/resources/8694004.jpg" width="435" height="435" alt="cuidado plantas" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778708491480-2cd0ncd24","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h4 style=\"text-align: center;\"><strong>Producto final del alumnado</strong></h4>\n<p><br />Como producto final de esta Situación de Aprendizaje, el alumnado elaborará un mural digital colaborativo sobre las plantas utilizando herramientas digitales adaptadas a su nivel.</p>\n<p>En este mural incluirán:</p>\n<p>- Partes de las plantas<br />- Cuidados básicos<br />- Imágenes y dibujos<br />- Información sencilla aprendida durante las sesiones</p>\n<p><br />El trabajo se realizará en pequeño grupo favoreciendo la participación activa, la creatividad y el aprendizaje cooperativo.</p>\n<p><img src=\"{{context_path}}/content/resources/8694004.jpg\" width=\"435\" height=\"435\" alt=\"cuidado plantas\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp4ix0ls-j9l9qok7m</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp4ix0ls-j9l9qok7m</odePageId>
+      <odeBlockId>block-1778709000545-6bo03xffu</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp4ix0ls-j9l9qok7m</odePageId>
+          <odeBlockId>block-1778709000545-6bo03xffu</odeBlockId>
+          <odeIdeviceId>idevice-1778709000543-2vhbqi18g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3 style="text-align: center;"><strong>Créditos</strong></h3>
+<p><br /><strong>Autoría</strong><br />Cristina Gutiérrez López</p>
+<p><strong>Título del proyecto</strong><br />Exploradores de plantas</p>
+<p><strong>Descripción</strong><br />Situación de Aprendizaje dirigida a 1º de Educación Primaria para trabajar el conocimiento de las plantas mediante metodologías activas y herramientas digitales adaptadas al alumnado.</p>
+<p><strong>Herramientas utilizadas</strong><br />- eXeLearning<br />- Canva<br />- Padlet<br />- Symbaloo</p>
+<p><br /><strong>Licencia</strong><br />Creative Commons: Reconocimiento – Compartir Igual 4.0</p>
+<p><strong>Recursos visuales</strong><br />Las imágenes y recursos utilizados proceden de bancos de imágenes libres de uso educativo o han sido creados específicamente para esta Situación de Aprendizaje.</p>
+<p><a href="https://drive.google.com/file/d/1QWCmXWlnsff4pZOxzSbfd0__FFM8i-Yb/view?usp=sharing" target="_blank" title="" rel="noopener">🔗 Descargar proyecto eXeLearning (.elp)</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778709000543-2vhbqi18g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3 style=\"text-align: center;\"><strong>Créditos</strong></h3>\n<p><br /><strong>Autoría</strong><br />Cristina Gutiérrez López</p>\n<p><strong>Título del proyecto</strong><br />Exploradores de plantas</p>\n<p><strong>Descripción</strong><br />Situación de Aprendizaje dirigida a 1º de Educación Primaria para trabajar el conocimiento de las plantas mediante metodologías activas y herramientas digitales adaptadas al alumnado.</p>\n<p><strong>Herramientas utilizadas</strong><br />- eXeLearning<br />- Canva<br />- Padlet<br />- Symbaloo</p>\n<p><br /><strong>Licencia</strong><br />Creative Commons: Reconocimiento – Compartir Igual 4.0</p>\n<p><strong>Recursos visuales</strong><br />Las imágenes y recursos utilizados proceden de bancos de imágenes libres de uso educativo o han sido creados específicamente para esta Situación de Aprendizaje.</p>\n<p><a href=\"https://drive.google.com/file/d/1QWCmXWlnsff4pZOxzSbfd0__FFM8i-Yb/view?usp=sharing\" target=\"_blank\" title=\"\" rel=\"noopener\">🔗 Descargar proyecto eXeLearning (.elp)</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
